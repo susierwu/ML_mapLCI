@@ -8,10 +8,10 @@ we use 'simplified version, accessible to everyone : '
 In the notebook, we extract mapping for above listed LCI, with each product's LCIA scores (user-selected, e.g., Climate change) plotted:
 - demo_AGRIBALYSE_farm-gate_whLCIA: "raw conventional agricultural products and organic products (at the farm gate)"
 - demo_AGRIBALYSE_ready-to-eat_product_whLCIA: "ready-to-eat food products", each product with different life cycle (LC) stage and LCIA score for each LC stage: 
-"agriculture" -> Agriculture
-"transformation" ->  Transformation
-"pack" -> Emballage
-"trnspt" ->  Transport
-"shop" -> Supermarché et distribution
-"consume"->  Consommation
-"total" ->  Total
+  - "agriculture" -> Agriculture
+  - "transformation" ->  Transformation
+  - "pack" -> Emballage
+  - "trnspt" ->  Transport
+  - "shop" -> Supermarché et distribution
+  - "consume"->  Consommation
+  - "total" ->  Total
