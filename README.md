@@ -19,4 +19,4 @@ pip install -e .
 
 
 
-For more elementary flow (EF), LCIA, industry code mapping, please visit [CIRAIG_IE_mapping](https://github.com/CIRAIG/IE_ML_mapping) 
+For more elementary flow (EF), LCI, industry classification mapping, please visit [CIRAIG_IE_mapping](https://github.com/CIRAIG/IE_ML_mapping) 
